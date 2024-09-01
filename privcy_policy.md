@@ -2,7 +2,7 @@
 
 Developer/Company Name: Ali Sharaf
 
-App Name: Cody App (com.example.encode_decode)
+App Name: Cody App (com.app.encode_decode)
 
 Effective Date: June 20, 2024
 
